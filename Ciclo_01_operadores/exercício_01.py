@@ -1,3 +1,9 @@
+''' Criar duas variáveis e mostrar as operações a seguir:
+- Soma          - Divisão Inteira
+- Subtração     - Resto
+- Multiplicação - Potência
+- Divisão
+'''
 numero1 = 20
 numero2 = 5
 
