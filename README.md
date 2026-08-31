@@ -9,14 +9,15 @@ Cada tema é estudado durante 2 semanas, seguindo a divisão:
 50% — Exercícios
 20% — Raciocínio sem código
 
-A metodologia busca transformar o conhecimento da sintaxe em capacidade de resolver problemas.
-
-📌 Estudos atuais
-Operadores Aritméticos
+## 01. Operadores Aritméticos
+ ** Status: Concluído
 
 Objetivo: compreender os operadores aritméticos do Python e desenvolver a lógica necessária para utilizá-los na resolução de problemas.
 Durante as duas semanas, os estudos serão organizados de forma progressiva:
 
-Entender → Praticar → Resolver problemas → Criar pequenos desafios
+## 02. Operadores de Comparação
+ ** Status: Em andamento
+
+Objetivo: Trabalhar comparação de condições e os valores booleanos True e False.
 
 A prioridade é desenvolver o raciocínio lógico.
